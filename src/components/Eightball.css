@@ -1,0 +1,17 @@
+.Eightball{
+    border-radius: 100%;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    margin: auto;
+}
+
+.Eightball-reset{
+    display: none;
+}
